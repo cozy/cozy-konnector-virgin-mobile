@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "konnector name",
+  "name": "Virgin Mobile",
   "type": "node",
-  "slug": "konnectorslug",
-  "description": "description",
-  "source": "git://github.com/cozy/cozy-konnector-thename.git",
+  "slug": "virginmobile",
+  "description": "Get all the bills from Virgin Mobile",
+  "source": "git://github.com/cozy/cozy-konnector-virgin-mobile.git",
   "fields": {
     "save_folder": {
       "doctype": "io.cozy.files",
