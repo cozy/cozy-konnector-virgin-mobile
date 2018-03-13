@@ -524,9 +524,9 @@ cozy-client-js@^0.3.17:
   version "0.3.17"
   resolved "https://registry.yarnpkg.com/cozy-client-js/-/cozy-client-js-0.3.17.tgz#f850a48f293c90ed65f9ae1ad26eab996e29e1a6"
 
-cozy-konnector-libs@2.5.7:
-  version "2.5.7"
-  resolved "https://registry.yarnpkg.com/cozy-konnector-libs/-/cozy-konnector-libs-2.5.7.tgz#7c1cc8ec2f4e5b1c1a8f9a837d5ef87134d763e6"
+cozy-konnector-libs@2.5.8:
+  version "2.5.8"
+  resolved "https://registry.yarnpkg.com/cozy-konnector-libs/-/cozy-konnector-libs-2.5.8.tgz#1c2d872c12cb00d35514b23fe7c4d77c2afbd5f0"
   dependencies:
     async "^2.4.1"
     bluebird "^3.5.0"
@@ -915,9 +915,9 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-standard-jsx@4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-4.0.2.tgz#009e53c4ddb1e9ee70b4650ffe63a7f39f8836e1"
+eslint-config-standard-jsx@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard-jsx/-/eslint-config-standard-jsx-4.0.1.tgz#cd4e463d0268e2d9e707f61f42f73f5b3333c642"
 
 eslint-config-standard@10.2.1:
   version "10.2.1"
@@ -2727,13 +2727,13 @@ standard-engine@~7.0.0:
     minimist "^1.1.0"
     pkg-conf "^2.0.0"
 
-standard@10.0.3:
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/standard/-/standard-10.0.3.tgz#7869bcbf422bdeeaab689a1ffb1fea9677dd50ea"
+standard@10.0.2:
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/standard/-/standard-10.0.2.tgz#974c1c53cc865b075a4b576e78441e1695daaf7b"
   dependencies:
     eslint "~3.19.0"
     eslint-config-standard "10.2.1"
-    eslint-config-standard-jsx "4.0.2"
+    eslint-config-standard-jsx "4.0.1"
     eslint-plugin-import "~2.2.0"
     eslint-plugin-node "~4.2.2"
     eslint-plugin-promise "~3.5.0"
