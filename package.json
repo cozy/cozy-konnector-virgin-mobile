@@ -32,7 +32,7 @@
     "env-cmd": "5.1.0",
     "git-directory-deploy": "1.5.1",
     "request-debug": "0.2.0",
-    "standard": "10.0.2",
+    "standard": "10.0.3",
     "webpack": "2.6.1"
   },
   "config": {
