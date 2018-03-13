@@ -80961,7 +80961,7 @@ module.exports = {
         })
         .catch(err => {
           debug(err, 'unexpected error while running the connector')
-          callback(err)
+          callback(err.message || err)
         })
       }
     })
